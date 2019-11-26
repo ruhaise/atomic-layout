@@ -92,7 +92,75 @@ There are some shortcuts to get you started:
 
 ## Examples
 
-- Flats list (https://codesandbox.io/s/5wwp76310n)
+### Basics
+
+<table border="0">
+  <tr>
+    <td width="250" valign="top">
+      <a href="#" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Basic composition image" />
+      </a>
+      <h4>Basic composition</h4>
+      <p>Combine two UI elements into a single one using Composition.
+    </td>
+    <td width="250" valign="top">
+      <a href="#" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Responsive props image" />
+      </a>
+      <h4>Responsive props</h4>
+      <p>Learn how to change a prop's value depending on a breakpoint.</p>
+    </td>
+    <td width="250" valign="top">
+      <a href="#" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Nested composition image" />
+      </a>
+      <h4>Nested composition</h4>
+      <p>...</p>
+    </td>
+  </tr>
+</table>
+
+### Intermediate
+
+<table border="0">
+  <tr>
+    <td width="250" valign="top">
+      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Custom configuration example" />
+      </a>
+      <h4>Custom configuration</h4>
+      <p>Change various layout settings through built-in API.</p>
+    </td>
+    <td width="250" valign="top">
+      <a href="#" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Conditional rendering image" />
+      </a>
+      <h4>Conditional rendering</h4>
+      <p>Render parts of your application based on a breakpoint.</p>
+    </td>
+  </tr>
+</table>
+
+### Advanced
+
+<table border="0">
+  <tr>
+    <td width="250" valign="top">
+      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Custom configuration example" />
+      </a>
+      <h4>Custom configuration</h4>
+      <p>Change various layout settings through built-in API.</p>
+    </td>
+    <td width="250" valign="top">
+      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
+        <img src="materials/example-thumbnails/flats-list.jpg" alt="Flats list example" />
+      </a>
+      <h4>Responsive component</h4>
+      <p>Make any React component support <a href="https://redd.gitbook.io/atomic-layout/fundamentals/responsive-props">Responsive props</a>.</p>
+    </td>
+  </tr>
+</table>
 
 ## Materials
 
