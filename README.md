@@ -96,26 +96,26 @@ There are some shortcuts to get you started:
 
 <table border="0">
   <tr>
-    <td width="250" valign="top">
+    <td width="33%" valign="top">
       <a href="#" target="_blank">
-        <img src="materials/example-thumbnails/flats-list.jpg" alt="Basic composition image" />
+        <img src="materials/example-thumbnails/no-thumb.jpg" alt="Basic composition image" />
       </a>
       <h4>Basic composition</h4>
       <p>Combine two UI elements into a single one using Composition.
     </td>
-    <td width="250" valign="top">
+    <td width="33%" valign="top">
       <a href="#" target="_blank">
-        <img src="materials/example-thumbnails/flats-list.jpg" alt="Responsive props image" />
+        <img src="materials/example-thumbnails/no-thumb.jpg" alt="Responsive props image" />
       </a>
       <h4>Responsive props</h4>
       <p>Learn how to change a prop's value depending on a breakpoint.</p>
     </td>
-    <td width="250" valign="top">
+    <td width="33%" valign="top">
       <a href="#" target="_blank">
-        <img src="materials/example-thumbnails/flats-list.jpg" alt="Nested composition image" />
+        <img src="materials/example-thumbnails/no-thumb.jpg" alt="Nested composition image" />
       </a>
       <h4>Nested composition</h4>
-      <p>...</p>
+      <p>Any element can be a composition <i>and</i> a composite at the same time.</p>
     </td>
   </tr>
 </table>
@@ -124,19 +124,26 @@ There are some shortcuts to get you started:
 
 <table border="0">
   <tr>
-    <td width="250" valign="top">
-      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
-        <img src="materials/example-thumbnails/flats-list.jpg" alt="Custom configuration example" />
-      </a>
-      <h4>Custom configuration</h4>
-      <p>Change various layout settings through built-in API.</p>
-    </td>
-    <td width="250" valign="top">
+    <td width="33%" valign="top">
       <a href="#" target="_blank">
-        <img src="materials/example-thumbnails/flats-list.jpg" alt="Conditional rendering image" />
+        <img src="materials/example-thumbnails/no-thumb.jpg" alt="Conditional rendering image" />
       </a>
       <h4>Conditional rendering</h4>
       <p>Render parts of your application based on a breakpoint.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
+        <img src="materials/example-thumbnails/no-thumb.jpg" alt="Custom configuration example" />
+      </a>
+      <h4>Custom configuration</h4>
+      <p>Change various layout settings through built-in <a href="https://redd.gitbook.io/atomic-layout/api/layout/configure"><code>Layout.configure()</code></a> API.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
+        <img src="materials/example-thumbnails/no-thumb.jpg" />
+      </a>
+      <h4>Using global layout settings</h4>
+      <p>...</p>
     </td>
   </tr>
 </table>
@@ -145,14 +152,7 @@ There are some shortcuts to get you started:
 
 <table border="0">
   <tr>
-    <td width="250" valign="top">
-      <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
-        <img src="materials/example-thumbnails/flats-list.jpg" alt="Custom configuration example" />
-      </a>
-      <h4>Custom configuration</h4>
-      <p>Change various layout settings through built-in API.</p>
-    </td>
-    <td width="250" valign="top">
+    <td width="33%" valign="top">
       <a href="https://codesandbox.io/s/5wwp76310n" target="_blank">
         <img src="materials/example-thumbnails/flats-list.jpg" alt="Flats list example" />
       </a>
@@ -207,12 +207,12 @@ There are some shortcuts to get you started:
 
 ## Community
 
+- **[Reactiflux][community-reactiflux]**
 - [Spectrum][community-spectrum]
-- [Reactiflux][community-reactiflux]
 
 ## Browser support
 
-Atomic Layout's browser support is made by the browser support of underlying technologies the library uses. Pay attention if your project can support CSS Grid to be sure you can use Atomic Layout.
+Atomic Layout's browser support is a combination of the browser support of its dependencies. Pay attention if your project can support CSS Grid to be sure you can use Atomic Layout at its fullest.
 
 > **See the [Support table for CSS Grid][css-grid-support]**. For Internet Explorer support please read [this issue](https://github.com/kettanaito/atomic-layout/issues/92).
 
